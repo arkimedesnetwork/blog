@@ -11,6 +11,9 @@
 <p align="center">
   <img src="./static/arkimedes_architecture.png">
 </p>
+<p align="center">
+  Arkimedes Architecture
+</p>
 
 ## Data Pipeline
 
@@ -18,6 +21,9 @@ Arkimedes gathers data from multiple sources, each with its own format. This div
 
 <p align="center">
   <img src="./static/arkimedes_datapipeline.png">
+</p>
+<p align="center">
+  Arkimedes Data Pipeline
 </p>
 
 ### Ingestion & JSON-Schema Transformation
@@ -47,7 +53,10 @@ After generating embeddings, we index and store them in a specialized vector dat
 The goal of our APIs is two-fold: to provide secure mechanisms for issuing and verifying information, and to enable efficient retrieval of trustworthy data. These APIs serve as an interface for the Arkimedes ecosystem, making it easy for authorized partners to notarize data on-chain. For data retrieval, the APIs leverage the capabilities of semantic search, enabling to query our vector database using natural language.
 
 <p align="center">
-  <img src="./static/arkimedes_api.png" width="80%">
+  <img src="./static/arkimedes_api.png" width="60%">
+</p>
+<p align="center">
+  Arkimedes API: Credential Endpoint
 </p>
 
 ## Large Language Model & Agents
@@ -60,6 +69,9 @@ As a knowledge assistant, Arkimedes implements semantic search and RAG to dynami
 
 <p align="center">
   <img src="./static/arkimedes_RAG.png">
+</p>
+<p align="center">
+  Arkimedes Retrieval Augmented Generation
 </p>
 
 ### Reranking
@@ -75,6 +87,9 @@ In practice, our safeguards are based on a set of recommended and fine-tuned pol
 <p align="center">
   <img src="./static/arkimedes_guardrails.png">
 </p>
+<p align="center">
+  Arkimedes I/O Guardrails
+</p>
 
 ## Conversational AI, Observability & Alignment
 
@@ -82,4 +97,7 @@ We favor interaction in natural language through a conversational interface, int
 
 <p align="center">
   <img src="./static/arkimedes_conversational_ai.png">
+</p>
+<p align="center">
+  Arkimedes Conversational AI
 </p>
