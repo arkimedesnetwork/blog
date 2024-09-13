@@ -53,7 +53,7 @@ After generating embeddings, we index and store them in a specialized vector dat
 The goal of our APIs is two-fold: to provide secure mechanisms for issuing and verifying information, and to enable efficient retrieval of trustworthy data. These APIs serve as an interface for the Arkimedes ecosystem, making it easy for authorized partners to notarize data on-chain. For data retrieval, the APIs leverage the capabilities of semantic search, enabling to query our vector database using natural language.
 
 <p align="center">
-  <img src="./static/arkimedes_api.png" width="60%">
+  <img src="./static/arkimedes_api.png" width="75%">
 </p>
 <p align="center">
   Arkimedes API: Credential Endpoint
