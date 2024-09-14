@@ -4,7 +4,7 @@
 
 # Arkimedes Architecture, at the intersection of AI & Web3
 
-**As Generative AI drives the next digital transformation, conversational interfaces are becoming the preferred choice for users to interact with AI-first applications. This makes the need for trustworthy, verifiable data evident. We, at Arkimedes, believe the intersection of traditional data management with blockchain technology will set a new standard for trust and transparency in AI applications.**
+**As Generative AI and conversational interfaces drive the next digital transformation, the need for trustworthy, verifiable data becomes evident. We, at Arkimedes, believe the intersection of traditional data management with blockchain technology will set a new standard for trust and transparency in AI-driven applications.**
 
 **In this blog article, we share our architecture roadmap to building such a smart, trusted platform that enables both enterprises and individuals to make more confident decisions in hiring and career development.**
 
